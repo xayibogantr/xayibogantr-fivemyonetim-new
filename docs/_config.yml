@@ -1,0 +1,8 @@
+title: xayibogantr
+
+remote_theme: xayibogantr/tactile
+
+plugins:
+- jekyll-remote-theme
+
+include: contributing.md
