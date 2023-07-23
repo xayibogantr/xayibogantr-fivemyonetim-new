@@ -18,9 +18,9 @@
   "bugs": {
     "url": "https://github.com/xayibogantr/xayibogantr/issues"
   },
-  "homepage": "https://github.com/zfbx/zdiscord",
+  "homepage": "https://github.com/xayibogantr/xayibogantr",
   "dependencies": {
-    "discord.js": "github:zfbx/discord.js"
+    "discord.js": ""
   },
   "eslintConfig": {
     "extends": "eslint:recommended",
