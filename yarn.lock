@@ -70,21 +70,6 @@
   "resolved" "https://registry.npmjs.org/discord-api-types/-/discord-api-types-0.26.1.tgz"
   "version" "0.26.1"
 
-"discord.js@github:zfbx/discord.js":
-  "integrity" "sha512-ma8BQG8KBKSTvJH6IOr69kSqGRBbWR8JlAiAKAyHWzMORCR8IQUteiKH0JvQeJ64Uzcy3408YXy0mSEb0OWGVA=="
-  "resolved" "https://codeload.github.com/zfbx/discord.js/tar.gz/bb643b504bd1e4416389e81f4f0ff9ce3a111aa0"
-  "version" "13.6.0"
-  dependencies:
-    "@discordjs/builders" "^0.11.0"
-    "@discordjs/collection" "^0.4.0"
-    "@sapphire/async-queue" "^1.1.9"
-    "@types/node-fetch" "^2.5.12"
-    "@types/ws" "^8.2.2"
-    "discord-api-types" "^0.26.0"
-    "form-data" "^4.0.0"
-    "node-fetch" "^2.6.1"
-    "ws" "^8.4.0"
-
 "form-data@^3.0.0":
   "integrity" "sha512-RHkBKtLWUVwd7SqRIvCZMEvAMoGUp0XU+seQiZejj0COz3RI3hWP4sCv3gZWWLjJTd7rGwcsF5eKZGii0r/hbg=="
   "resolved" "https://registry.npmjs.org/form-data/-/form-data-3.0.1.tgz"
