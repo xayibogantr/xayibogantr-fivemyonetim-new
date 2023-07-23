@@ -1,5 +1,5 @@
 {
-  "name": "zdiscord",
+  "name": "xayibogantr",
   "version": "7.3.0",
   "description": "fivem yönetim",
   "main": "server.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zfbx/zdiscord.git"
+    "url": "git+https://github.com/xayibogantr/xayibogantr.git"
   },
-  "author": "Tony#1275",
+  "author": "xayibogantr#1234",
   "contributors": [
-    "zfbx (https://github.com/zfbx/)"
+    "xayibogantr (https://github.com/xayibogantr/)"
   ],
-  "license": "CC-BY-NC-SA-4.0",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zfbx/zdiscord/issues"
+    "url": "https://github.com/xayibogantr/xayibogantr/issues"
   },
   "homepage": "https://github.com/zfbx/zdiscord",
   "dependencies": {
