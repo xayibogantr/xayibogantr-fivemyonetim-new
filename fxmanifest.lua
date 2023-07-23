@@ -2,9 +2,9 @@
 fx_version "cerulean"
 games { "gta5" }
 
-author "zfbx"
+author "xayibogantr"
 description "fivem yönetim"
-repository "https://github.com/zfbx/zdiscord"
+repository "https://github.com/xayibogantr/xayibogantr"
 version "7.3.0"
 license "CC-BY-NC-SA-4.0"
 lua54 'yes'
