@@ -1,3 +1,4 @@
-fivem yonetim.
+DISCORD tabanlı fivem yönetim.
 
-config icin ulas kardesim. xayibogantr#1234 - xayibogantr
+
+config için ulaş. xayibogantr - xayibogantr#1234
