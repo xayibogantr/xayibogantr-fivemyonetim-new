@@ -4,7 +4,7 @@ const LanguageLocaleCode = "tr";
 
 // genel ayarlar
 const FiveMServerName = "";     //Sunucu ismi
-const DiscordInviteLink = ";    // Dc invite
+const DiscordInviteLink = "";    // Dc invite
 const FiveMServerIP = "";       // fivem ip
 
 
